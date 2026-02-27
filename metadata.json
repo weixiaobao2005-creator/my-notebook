@@ -1,0 +1,5 @@
+{
+  "name": "Personal Notebook",
+  "description": "An online personal notebook to store URLs, credentials, text, and images securely.",
+  "requestFramePermissions": []
+}
